@@ -1,0 +1,5 @@
+The predictions for the test data were 99.0% accurate.
+
+For example, 'well obviously not because all the people in my cool college life go home _' was classified as not spam.
+
+Meanwhile, 'urgent we be try to contact you last weekend draw show u have win a 1000 prize guarantee call 09064017295 claim code k52 valid 12hrs 150p pm' was classified as spam.

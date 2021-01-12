@@ -1,0 +1,8 @@
+Stemmed text:
+['So', 'mani', 'squid', 'are', 'jump', 'out', 'of', 'suitcas', 'these', 'day', 'that', 'you', 'can', 'bare', 'go', 'anywher', 'without', 'see', 'one', 'burst', 'forth', 'from', 'a', 'tightli', 'pack', 'valis', 'I', 'went', 'to', 'the', 'dentist', 'the', 'other', 'day', 'and', 'sure', 'enough', 'I', 'saw', 'an', 'angri', 'one', 'jump', 'out', 'of', 'my', 'dentist', 's', 'bag', 'within', 'minut', 'of', 'arriv', 'she', 'hardli', 'even', 'notic']
+
+Lemmatized text:
+['So', 'many', 'squid', 'are', 'jumping', 'out', 'of', 'suitcase', 'these', 'day', 'that', 'you', 'can', 'barely', 'go', 'anywhere', 'without', 'seeing', 'one', 'burst', 'forth', 'from', 'a', 'tightly', 'packed', 'valise', 'I', 'went', 'to', 'the', 'dentist', 'the', 'other', 'day', 'and', 'sure', 'enough', 'I', 'saw', 'an', 'angry', 'one', 'jump', 'out', 'of', 'my', 'dentist', 's', 'bag', 'within', 'minute', 'of', 'arriving', 'She', 'hardly', 'even', 'noticed']
+
+Lemmatized text with part of speech:
+['So', 'many', 'squid', 'be', 'jump', 'out', 'of', 'suitcase', 'these', 'day', 'that', 'you', 'can', 'barely', 'go', 'anywhere', 'without', 'see', 'one', 'burst', 'forth', 'from', 'a', 'tightly', 'pack', 'valise', 'I', 'go', 'to', 'the', 'dentist', 'the', 'other', 'day', 'and', 'sure', 'enough', 'I', 'saw', 'an', 'angry', 'one', 'jump', 'out', 'of', 'my', 'dentist', 's', 'bag', 'within', 'minute', 'of', 'arrive', 'She', 'hardly', 'even', 'notice']

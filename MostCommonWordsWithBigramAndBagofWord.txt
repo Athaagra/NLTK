@@ -1,0 +1,4 @@
+Three most frequent word sequences and the number of occurrences according to Bigrams:
+[(('it', 's'), 1), (('s', 'excite'), 1), (('excite', 'to'), 1)]
+
+Three most frequent words and number of occurrences according to Bag-of-Words:[('fish', 4), ('fly', 3), ('day', 3)]

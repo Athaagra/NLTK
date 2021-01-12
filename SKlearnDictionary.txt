@@ -1,0 +1,5 @@
+The predictions for the test data were 100.0% accurate.
+
+For example, 'really do hope the work doesnt get stressful have a gr8 day' was classified as not spam.
+
+Meanwhile, '2p per min to call germany 08448350055 from your bt line just 2p per min check planettalkinstant com for info t s c s text stop to opt out' was classified as spam.

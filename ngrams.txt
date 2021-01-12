@@ -1,0 +1,8 @@
+Looking Glass Bigrams:
+[(('of', 'the'), 101), (('said', 'the'), 98), (('in', 'a'), 97), (('in', 'the'), 90), (('as', 'she'), 82), (('you', 'know'), 72), (('a', 'little'), 68), (('the', 'queen'), 67), (('said', 'alice'), 67), (('to', 'the'), 66)]
+
+Looking Glass Trigrams:
+[(('the', 'red', 'queen'), 54), (('the', 'white', 'queen'), 31), (('said', 'in', 'a'), 21), (('she', 'went', 'on'), 18), (('said', 'the', 'red'), 17), (('thought', 'to', 'herself'), 16), (('the', 'queen', 'said'), 16), (('said', 'to', 'herself'), 14), (('said', 'humpty', 'dumpty'), 14), (('the', 'knight', 'said'), 14)]
+
+Looking Glass n-grams:
+[(('said', 'the', 'red', 'queen'), 15), (('she', 'said', 'to', 'herself'), 11), (('alice', 'thought', 'to', 'herself'), 9), (('to', 'herself', 'as', 'she'), 9), (('one', 'and', 'one', 'and'), 8), (('and', 'one', 'and', 'one'), 8), (('alice', 'said', 'in', 'a'), 6), (('for', 'a', 'minute', 'or'), 6), (('a', 'minute', 'or', 'two'), 6), (('in', 'a', 'tone', 'of'), 6)]

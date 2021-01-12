@@ -1,0 +1,24 @@
+~~~ Topics found by bag of words LDA ~~~
+Topic #1: come holmes know would
+Topic #2: know holmes take street
+Topic #3: come holmes find know
+Topic #4: holmes know mccarthy father
+Topic #5: street come room house
+Topic #6: holmes leave time know
+Topic #7: holmes majesty would know
+Topic #8: holmes think may mccarthy
+Topic #9: holmes little would come
+Topic #10: holmes son know go
+
+
+~~~ Topics found by tf-idf LDA ~~~
+Topic #1: information chair absolutely definite
+Topic #2: naturally witness lestrade great
+Topic #3: read let keeper blood
+Topic #4: presume pay nature want
+Topic #5: promise lad incline lose
+Topic #6: sofa twenty air become
+Topic #7: upon edge back keeper
+Topic #8: holmes say man know
+Topic #9: face note say time
+Topic #10: king holmes majesty mr
